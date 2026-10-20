@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Kelas Foto: Cahaya Sehari-hari</title>
+  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b8d9e1"/><stop offset="1" stop-color="#f7d3a1"/></linearGradient></defs>
+  <rect width="1200" height="800" fill="url(#sky)"/><circle cx="962" cy="206" r="112" fill="#ffdc92"/><path d="M0 513h178V303h134v210h73V351h141v162h80V276h132v237h92V333h149v180h91V389h130v411H0Z" fill="#9e8f95"/><path d="M0 644q205-74 420-7t780-7v170H0Z" fill="#6a697e"/>
+  <g transform="translate(716 362) rotate(-8)"><rect x="0" y="0" width="238" height="166" rx="16" fill="#292b39"/><rect x="20" y="19" width="198" height="128" rx="6" fill="#f1c876"/><circle cx="119" cy="84" r="46" fill="#697e8e" stroke="#f6eee1" stroke-width="11"/><circle cx="119" cy="84" r="24" fill="#31364d"/><path d="M34-22h73v22H34Z" fill="#292b39"/><rect x="89" y="163" width="65" height="18" rx="5" fill="#292b39"/></g>
+  <path d="M513 559q83-21 131 0m-114 19q50-16 86 0" fill="none" stroke="#fff4dc" stroke-width="5" stroke-linecap="round"/>
+  <text x="72" y="104" fill="#3d5261" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="5">JEPRET BARENG  /  WALK &amp; LEARN</text><text x="70" y="683" fill="#fffaf1" font-family="Arial,sans-serif" font-size="67" font-weight="800">KELAS FOTO</text><text x="75" y="747" fill="#fffaf1" font-family="Arial,sans-serif" font-size="30" font-weight="700" letter-spacing="3">CAHAYA SEHARI-HARI</text>
+</svg>

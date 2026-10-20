@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#45406d"/><stop offset="1" stop-color="#252940"/></linearGradient></defs>
+  <title id="title">Malam Papan: Board Game Meetup</title>
+  <rect width="1200" height="800" fill="url(#bg)"/><circle cx="940" cy="185" r="133" fill="#f6d572" opacity=".95"/><circle cx="940" cy="185" r="183" fill="none" stroke="#e1a58d" stroke-width="2" opacity=".5"/>
+  <g transform="rotate(-7 646 480)"><rect x="323" y="338" width="516" height="262" rx="19" fill="#e5c88f"/><rect x="347" y="361" width="468" height="216" rx="10" fill="#708d78"/><path d="M462 361v216m117-216v216m117-216v216M347 433h468m-468 72h468" stroke="#d9dfbd" stroke-width="4" opacity=".8"/><rect x="407" y="400" width="73" height="73" rx="9" fill="#ef9b76"/><rect x="644" y="468" width="76" height="75" rx="9" fill="#9383d0"/><circle cx="566" cy="464" r="30" fill="#ffe082"/><circle cx="756" cy="399" r="22" fill="#fff0d5"/></g>
+  <g fill="#f8e8bf"><circle cx="173" cy="172" r="7"/><circle cx="258" cy="255" r="4"/><circle cx="1073" cy="342" r="6"/><circle cx="1046" cy="518" r="4"/><path d="M101 321h36m-18-18v36M1074 108h27m-13-14v28" stroke="#f8e8bf" stroke-width="5" stroke-linecap="round"/></g>
+  <text x="72" y="103" fill="#d6cee9" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="5">MAIN DULU JAKARTA  /  PLAY TOGETHER</text><text x="70" y="686" fill="#fffaf1" font-family="Arial,sans-serif" font-size="67" font-weight="800">MALAM PAPAN</text><text x="75" y="747" fill="#c9ed82" font-family="Arial,sans-serif" font-size="30" font-weight="700" letter-spacing="3">BOARD GAME MEETUP</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Tukar Buku, Tukar Cerita</title>
+  <rect width="1200" height="800" fill="#f3dfad"/><circle cx="974" cy="160" r="117" fill="#fff3cc"/><path d="M0 541q206-70 414-9t786-14v282H0Z" fill="#8eb393"/><path d="M0 643q233-60 483 2t717-11v166H0Z" fill="#698c77"/>
+  <g transform="rotate(-7 500 450)"><rect x="300" y="254" width="210" height="286" rx="9" fill="#8b4d5c"/><rect x="324" y="275" width="163" height="244" fill="#f8ead0"/><path d="M404 280v238" stroke="#d1b991" stroke-width="7"/><path d="M349 339h111m-111 27h94m-94 94h104" stroke="#80937c" stroke-width="8" stroke-linecap="round"/></g>
+  <g transform="rotate(8 693 446)"><rect x="558" y="284" width="214" height="283" rx="8" fill="#4e6b68"/><rect x="580" y="304" width="169" height="241" fill="#eebf70"/><path d="M665 309v233" stroke="#d29b58" stroke-width="7"/><circle cx="665" cy="393" r="48" fill="#d5836a"/><path d="M612 476q53-58 106 0" fill="none" stroke="#fff1d5" stroke-width="11"/></g>
+  <text x="72" y="102" fill="#615744" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="5">BACA BERGILIR  /  BERBAGI CERITA</text><text x="70" y="686" fill="#fffdf4" font-family="Arial,sans-serif" font-size="68" font-weight="800">TUKAR BUKU,</text><text x="70" y="756" fill="#fffdf4" font-family="Arial,sans-serif" font-size="68" font-weight="800">TUKAR CERITA.</text>
+</svg>

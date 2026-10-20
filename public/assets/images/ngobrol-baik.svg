@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Ngobrol Baik: Kota untuk Semua</title>
+  <rect width="1200" height="800" fill="#f6d6cc"/><circle cx="1016" cy="153" r="121" fill="#ffd978"/><path d="M0 493q253-61 510 13t690-12v306H0Z" fill="#b7d4c2"/><path d="M0 601q240-60 492 0t708-8v207H0Z" fill="#7aa48f"/>
+  <g transform="translate(188 260)"><path d="M70 77q0-69 88-69h159q87 0 87 69v69q0 69-87 69h-82l-59 58v-58h-18q-88 0-88-69Z" fill="#fffaf1"/><text x="117" y="107" fill="#594379" font-family="Arial" font-size="33" font-weight="700">KOTA</text><text x="117" y="147" fill="#594379" font-family="Arial" font-size="33" font-weight="700">UNTUK KITA</text></g>
+  <g transform="translate(700 380)"><circle cx="75" cy="51" r="41" fill="#9c634c"/><path d="M25 201q0-91 50-91t50 91Z" fill="#6452a3"/><circle cx="202" cy="57" r="38" fill="#c38162"/><path d="M158 201q0-82 44-82t44 82Z" fill="#e7bb58"/></g>
+  <text x="72" y="104" fill="#664c66" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="5">TEMAN TROTOAR  /  DISKUSI TERBUKA</text><text x="70" y="684" fill="#fffaf1" font-family="Arial,sans-serif" font-size="65" font-weight="800">NGOBROL BAIK</text><text x="75" y="747" fill="#fffaf1" font-family="Arial,sans-serif" font-size="30" font-weight="700" letter-spacing="3">KOTA UNTUK SEMUA</text>
+</svg>

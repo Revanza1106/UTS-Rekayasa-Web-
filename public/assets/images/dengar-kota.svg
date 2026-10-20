@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Dengar Kota: Sesi Akustik Senja</title>
+  <defs><linearGradient id="night" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f58f75"/><stop offset=".58" stop-color="#8c6aae"/><stop offset="1" stop-color="#353654"/></linearGradient></defs>
+  <rect width="1200" height="800" fill="url(#night)"/><circle cx="943" cy="200" r="94" fill="#ffd998"/><path d="M0 492h156V327h111v165h74V270h148v222h90V368h110v124h111V294h140v198h90V356h171v444H0Z" fill="#37364f"/><path d="M0 548q255-74 506 3t694-11v260H0Z" fill="#292b43"/>
+  <g transform="translate(685 335)"><path d="M92 39a13 13 0 0 1 26 0v142a13 13 0 0 1-26 0Z" fill="#e7b4a2"/><path d="M75 131h60v25a30 30 0 0 1-60 0Z" fill="#e7b4a2"/><path d="M104 186v77m-42 0h85" fill="none" stroke="#f9d777" stroke-width="14" stroke-linecap="round"/><path d="M54 63q-31 28 0 57m104-57q31 28 0 57M28 40q-57 50 0 103m156-103q57 50 0 103" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" opacity=".75"/></g>
+  <path d="M572 628q75-21 129 0m-110 19q52-15 91 0" fill="none" stroke="#fae3ae" stroke-width="5" stroke-linecap="round"/>
+  <text x="72" y="101" fill="#fff5dc" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="5">SUARA SORE  /  DENGAR BERSAMA</text><text x="70" y="686" fill="#fffaf1" font-family="Arial,sans-serif" font-size="69" font-weight="800">DENGAR KOTA</text><text x="75" y="747" fill="#ffe5b0" font-family="Arial,sans-serif" font-size="30" font-weight="700" letter-spacing="3">SESI AKUSTIK SENJA</text>
+</svg>

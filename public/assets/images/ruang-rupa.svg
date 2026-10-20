@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Ruang Rupa: Zine dan Print Fair</title>
+  <rect width="1200" height="800" fill="#e8d9ff"/><circle cx="982" cy="151" r="199" fill="#cfb5f5"/><path d="M0 580 1200 425v375H0Z" fill="#f4a889"/><path d="M0 640 1200 524v276H0Z" fill="#e9856a"/>
+  <g transform="rotate(-11 714 410)"><rect x="628" y="190" width="280" height="366" rx="9" fill="#2f2851"/><rect x="651" y="215" width="231" height="310" fill="#facb62"/><circle cx="765" cy="334" r="69" fill="#e86e57"/><path d="M683 449q79-120 154 0" fill="none" stroke="#40335b" stroke-width="21"/><text x="672" y="493" fill="#342749" font-family="Arial" font-weight="800" font-size="28">MAKE STUFF</text></g>
+  <g transform="rotate(9 930 470)"><rect x="887" y="331" width="169" height="232" rx="8" fill="#fff8ea"/><path d="M914 480q68-155 124-26" fill="none" stroke="#6b4bcb" stroke-width="16"/><circle cx="972" cy="411" r="34" fill="#7eb596"/><text x="909" y="532" fill="#342749" font-family="Arial" font-weight="800" font-size="17">PRINT CLUB</text></g>
+  <text x="72" y="106" fill="#463565" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="5">KOLEKTIF KERTAS  /  KREASI LOKAL</text><text x="70" y="684" fill="#fffaf1" font-family="Arial,sans-serif" font-size="70" font-weight="800">RUANG RUPA</text><text x="75" y="746" fill="#fffaf1" font-family="Arial,sans-serif" font-size="31" font-weight="700" letter-spacing="3">ZINE &amp; PRINT FAIR</text>
+</svg>

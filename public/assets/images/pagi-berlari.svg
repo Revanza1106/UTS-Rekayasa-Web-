@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Pagi Berlari, Pagi Berarti</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f7c66b"/><stop offset="1" stop-color="#f28c65"/></linearGradient></defs>
+  <rect width="1200" height="800" fill="url(#bg)"/><circle cx="925" cy="180" r="122" fill="#fff0a5"/><circle cx="925" cy="180" r="160" fill="none" stroke="#fff0a5" stroke-opacity=".5" stroke-width="3"/>
+  <path d="M0 570Q230 470 470 590T930 540t270 10v250H0Z" fill="#668d78"/><path d="M0 647q250-72 482 7t718-22v168H0Z" fill="#496f5e"/>
+  <g stroke="#253f3d" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"><circle cx="657" cy="407" r="38" fill="#bd7554" stroke="none"/><path d="m646 446-45 100 73 46 44-97m-84-18 88 44 62-46m-127 71-80 91m137-47 67 84" fill="none"/><circle cx="810" cy="439" r="34" fill="#493e4b" stroke="none"/><path d="m805 475-22 96 64 34 25-89m-66-25 88 22 48-54m-95 85-54 102m118-62 50 64" fill="none"/></g>
+  <path d="M920 490q42-20 76 0m-64 21q30-15 57 0" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" opacity=".8"/>
+  <text x="74" y="110" fill="#253f3d" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="5">RUANGTEMU  /  GERAK BARENG</text><text x="70" y="690" fill="#fffdf4" font-family="Arial,sans-serif" font-size="67" font-weight="800">PAGI BERLARI,</text><text x="70" y="766" fill="#fffdf4" font-family="Arial,sans-serif" font-size="67" font-weight="800">PAGI BERARTI.</text>
+</svg>
